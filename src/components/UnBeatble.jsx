@@ -16,7 +16,12 @@ const UnBeatable = () => {
           </div>
         </div>
       </div>
-      <div className="right">slider here</div>
+      <div className="right">
+        <img
+          src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA2am4zZnIwMzJxY3I5am5vcWFqc2ZxNnE5YjJxZXBrN3E1dHd2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lLNLM8BlXBWHio/giphy.gif"
+          alt=""
+        />
+      </div>
     </div>
   );
 };

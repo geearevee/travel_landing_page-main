@@ -5,11 +5,16 @@
 
 .experienceleftsec{
     background-color: yellow;
-    flex: 1 1 50%;
+    flex: 0 0  50%;
     display: grid;
 }
+.experienceleftsec img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 .experiencerightsec{
-    flex: 1 1 50%;
+    flex: 0 0  50%;
     padding-left: 60px;
 }
 

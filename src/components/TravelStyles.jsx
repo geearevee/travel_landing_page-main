@@ -13,7 +13,12 @@ const TravelStyles = () => {
         </p>
         <button className="know-more">KNOW MORE</button>
       </div>
-      <div className="travelstyleright"></div>
+      <div className="travelstyleright">
+        <img
+          src="https://www.thetopvillas.com/blog/wp-content/uploads/2020/01/shutterstock_380725909-1-1140x760.jpg"
+          alt=""
+        />
+      </div>
     </div>
   );
 };

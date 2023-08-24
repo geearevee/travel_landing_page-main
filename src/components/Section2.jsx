@@ -1,4 +1,4 @@
-import "../styles/section2.css";
+import "../styles/Section2.css";
 import FeatureCards from "./FeatureCards";
 import card2 from "../Image/MUtZH5.jpg";
 import card3 from "../Image/R.jpg";

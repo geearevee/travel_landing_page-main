@@ -12,10 +12,18 @@ const Footer = () => {
           </h4>
         </div>
         <div className="items image-only">
-          <img className="profile_img" alt="img2" />
+          <img
+            className="profile_img"
+            src="https://cdn.pixabay.com/photo/2016/11/16/03/37/globe-trotter-1828079_1280.jpg"
+            alt="img2"
+          />
         </div>
         <div className="items">
-          <img className="profile_img" alt="ing" />
+          <img
+            src="https://www.kofi-group.com/wp-content/uploads/2021/02/shutterstock_168693032-scaled.jpg"
+            className="profile_img"
+            alt="ing"
+          />
           <h5>name</h5>
           <h6>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis qui
@@ -24,7 +32,11 @@ const Footer = () => {
           </h6>
         </div>
         <div className="items">
-          <img className="profile_img" alt="ing" />
+          <img
+            src="https://www.kofi-group.com/wp-content/uploads/2021/02/shutterstock_168693032-scaled.jpg"
+            className="profile_img"
+            alt="ing"
+          />
           <h5>name</h5>
           <h6>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis qui
@@ -33,7 +45,11 @@ const Footer = () => {
           </h6>
         </div>
         <div className="items">
-          <img className="profile_img" alt="ing" />
+          <img
+            src="https://www.kofi-group.com/wp-content/uploads/2021/02/shutterstock_168693032-scaled.jpg"
+            className="profile_img"
+            alt="ing"
+          />
           <h5>name</h5>
           <h6>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis qui
@@ -42,7 +58,11 @@ const Footer = () => {
           </h6>
         </div>
         <div className="items">
-          <img className="profile_img" alt="ing" />
+          <img
+            src="https://www.kofi-group.com/wp-content/uploads/2021/02/shutterstock_168693032-scaled.jpg"
+            className="profile_img"
+            alt="ing"
+          />
           <h5>name</h5>
           <h6>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis qui
@@ -52,7 +72,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer">
-        <img src="" alt="" />
+        <img src="/logo-travel-1.png" alt="" />
       </div>
     </>
   );

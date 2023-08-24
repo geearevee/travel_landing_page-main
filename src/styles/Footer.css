@@ -21,3 +21,14 @@
     height: 90%;
     width: auto;
 }
+.profile_img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.image-only img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;  
+    border-radius: 15px;
+}
