@@ -8,7 +8,7 @@ const Section1 = () => {
       <p className="heading-title-1">NEW AGE DESTINATION MANAGEMENT</p>
       <h1 className="heading-1">Take the world for a ride</h1>
       <div className="contact-us-icon">
-        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" alt="hj" style= {{height:"100%", width:"100%"}} />
+        <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png" alt="hj" style= {{height:"60%", width:"60%"}} />
       </div>
       <button className="contact-us-button">contact us</button>
       <div className="hero-group">
